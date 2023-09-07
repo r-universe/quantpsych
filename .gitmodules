@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "RMediation"]
 	path = RMediation
-	url = https://github.com/cran/RMediation
+	url = https://github.com/quantpsych/rmediation
